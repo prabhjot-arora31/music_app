@@ -6,7 +6,7 @@ function MusicCard({ Data }) {
       className="dabba"
       style={{
         margin: "10px",
-        cursor: "pointer",
+        
         border: "2px solid black",
         // padding: "20px",
         // height: `${Data.album.cover_xl ? "650px" : "200px"}`,
