@@ -60,6 +60,8 @@ function MusicCard({ Data }) {
             display: "flex",
             justifyContent: "space-around",
             alignItems: "center",
+            gap: "13px",
+            flexWrap: "wrap",
           }}
         >
           <h4 style={{ textAlign: "center" }}>Preview:</h4>
