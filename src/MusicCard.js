@@ -60,7 +60,7 @@ function MusicCard({ Data }) {
             display: "flex",
             justifyContent: "space-around",
             alignItems: "center",
-            gap: "13px",
+            gap: "7.5px",
             flexWrap: "wrap",
           }}
         >
